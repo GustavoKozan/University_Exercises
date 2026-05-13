@@ -46,6 +46,7 @@ estudados, com código comentado para facilitar a compreensão.
 |-----------|-----------|-------------------|
 | [Analisador de Notas](./numpy/analisador_notas.ipynb) | Calcula média, maior e menor nota e retorna situação acadêmica | `np.mean`, `np.max`, `np.min`, validação de entrada, `try/except` |
 | [Analisador de Turma](./numpy/analisador_turma.py) | Analisa desempenho de uma turma inteira usando matriz bidimensional | `np.zeros`, `np.mean axis=1`, matriz 2D, loops aninhados, validação |
+| [Análise de Vendas](./numpy/analise_vendas.py) | Simula análise de vendas anuais de uma empresa, identificando meses acima da média, melhor e pior mês e diferença percentual | `np.random.randint`, `np.where`, `np.argmax`, `np.argmin`, boolean indexing |
 
 ---
 
